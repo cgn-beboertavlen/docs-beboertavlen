@@ -1,0 +1,8 @@
+{
+  "label": "API Dokumentation",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Oversigt over BeboerTavlens API Dokumentation"
+  }
+}
