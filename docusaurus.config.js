@@ -16,8 +16,9 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'CGN Software ApS', // Usually your GitHub org/user name.
-  projectName: 'BeboerTavlen', // Usually your repo name.
+  organizationName: 'cgn-beboertavlen', // Usually your GitHub org/user name.
+  projectName: 'docs-beboertavlen', // Usually your repo name.
+  deploymentBranch: 'main',
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
