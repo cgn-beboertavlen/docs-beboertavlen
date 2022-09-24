@@ -24,8 +24,8 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'da',
+    locales: ['en', 'da'],
   },
 
   presets: [
@@ -40,13 +40,15 @@ const config = {
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
+        /*
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        }
+        ,*/
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -75,9 +77,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'BeboerTavlen Docs',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'BeboerTavlen logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -85,28 +87,43 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Dokumentation',
           },
+          {to: '/api', label: 'API', position: 'left'}
+          /*,
+          {
+            href: 'https://github.com/facebook/docusaurus',
+            label: 'GitHub',
+            position: 'right',
+          }
+          */
+          /*
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
             position: 'right',
-          },
+          }
+          */,
         ],
       },
       footer: {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'BeboerTavlen Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Dokumentation',
                 to: '/docs/intro',
               },
+              {
+                label: 'API',
+                to: '/api',
+              },
             ],
-          },
+          }/*,
+          
           {
             title: 'Community',
             items: [
@@ -124,6 +141,8 @@ const config = {
               },
             ],
           },
+          */          
+          /*
           {
             title: 'More',
             items: [
@@ -137,8 +156,9 @@ const config = {
               },
             ],
           },
+          */
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Belongs to CGN Software Denmark`,
       },
       prism: {
         theme: lightCodeTheme,
