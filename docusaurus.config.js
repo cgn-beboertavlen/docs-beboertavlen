@@ -62,7 +62,7 @@ const config = {
         // Plugin Options for loading OpenAPI files
         specs: [
           {
-            spec: 'https://tst-beboertavlen.azurewebsites.net/swagger/v1/swagger.json',
+            spec: 'https://test-api-beboertavlen.azurewebsites.net/swagger/v1/swagger.json',
             route: '/api/',
           },
         ],
