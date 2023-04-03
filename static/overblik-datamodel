@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-03T10:47:06.283Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="hkV_9LJK1aQlEe6ZevNP" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-03T10:53:08.772Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="IHY-nx39tGYoKLdNl9Ky" version="21.1.4" type="github">
   <diagram name="Page-1" id="r3el1PvUavc0K8LUrWiv">
     <mxGraphModel dx="1294" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -54,16 +54,16 @@
           <mxGeometry x="670" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QKrrynskaSEsm7ghDBNK-15" value="Begivenhed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QKrrynskaSEsm7ghDBNK-16" value="Henvendelse" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QKrrynskaSEsm7ghDBNK-17" value="Opgave" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="485" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="485" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QKrrynskaSEsm7ghDBNK-18" value="Dokument" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QKrrynskaSEsm7ghDBNK-19" value="Lejlighed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="340" width="120" height="60" as="geometry" />
@@ -75,7 +75,10 @@
           <mxGeometry x="485" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QKrrynskaSEsm7ghDBNK-22" value="Kalender" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="485" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QKrrynskaSEsm7ghDBNK-32" value="Rådighedsregnskab" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
