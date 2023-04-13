@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_beboertavlen=self.webpackChunkdocs_beboertavlen||[]).push([[556],{220:e=>{e.exports=JSON.parse('{"label":"docusaurus","permalink":"/api/en/blog/tags/docusaurus","allTagsPath":"/api/en/blog/tags","count":4}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_beboertavlen=self.webpackChunkdocs_beboertavlen||[]).push([[922],{8608:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/api/en/blog/tags/hola","allTagsPath":"/api/en/blog/tags","count":1}')}}]);

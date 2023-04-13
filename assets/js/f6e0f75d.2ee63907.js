@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_beboertavlen=self.webpackChunkdocs_beboertavlen||[]).push([[35],{6473:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/api/blog/tags/facebook","allTagsPath":"/api/blog/tags","count":1}')}}]);
