@@ -9,7 +9,7 @@ const config = {
   title: 'BeboerTavlen Docs',
   tagline: 'Al Dokumentation for BeboerTavlen samlet et sted!',
   url: 'https://docs.beboertavlen.dk',
-  baseUrl: '/api/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
